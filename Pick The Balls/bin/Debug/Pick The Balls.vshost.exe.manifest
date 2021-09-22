@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Pick The Balls.exe" size="96256">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Pick The Balls.exe" size="96768">
       <assemblyIdentity name="Pick The Balls" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>yRlgJ/bu9DBwXJ9OXlkTs1Ee4QcseZAVfRrM76iDUkQ=</dsig:DigestValue>
+        <dsig:DigestValue>CKtVuayHpkzE8CIDDJwX/D+Sc6PvPsDHHdncFlk6s6M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

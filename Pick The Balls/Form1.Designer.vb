@@ -1027,9 +1027,10 @@ Partial Class Form1
         Me.Controls.Add(Me.RemplaçantDuBoss)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
+        Me.MaximizeBox = False
         Me.Name = "Form1"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Form1"
+        Me.Text = "Smash Boss"
         Me.RemplaçantDuBoss.ResumeLayout(False)
         Me.ResumeLayout(False)
 

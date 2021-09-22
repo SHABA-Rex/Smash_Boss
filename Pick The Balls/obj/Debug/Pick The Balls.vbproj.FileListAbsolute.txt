@@ -36,3 +36,17 @@ C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Sm
 C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\obj\Debug\Pick The Balls.exe
 C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\obj\Debug\Pick The Balls.xml
 C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\obj\Debug\Pick The Balls.pdb
+C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\bin\Debug\Pick The Balls.exe.manifest
+C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\bin\Debug\Pick The Balls.application
+C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\bin\Debug\Pick The Balls.exe
+C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\bin\Debug\Pick The Balls.pdb
+C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\bin\Debug\Pick The Balls.xml
+C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\obj\Debug\Pick The Balls.vbprojResolveAssemblyReference.cache
+C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\obj\Debug\Pick_The_Balls.Choisir_Le_Niveau.resources
+C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\obj\Debug\Pick_The_Balls.Form1.resources
+C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\obj\Debug\Pick_The_Balls.lesScoresEtLesNiveaux.resources
+C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\obj\Debug\Pick_The_Balls.Scores_Et_Victoires.resources
+C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\obj\Debug\Pick_The_Balls.Resources.resources
+C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\obj\Debug\Pick The Balls.vbproj.GenerateResource.Cache
+C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\obj\Debug\Pick The Balls.exe.manifest
+C:\Users\ARMAND COLLINS MBA\Desktop\Programmations\InterfacesProg\A_Ameliorer\Smash_Boss\Pick The Balls\obj\Debug\Pick The Balls.application
